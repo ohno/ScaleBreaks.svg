@@ -1,6 +1,6 @@
 # ScaleBreaks.svg
 
-Three types are available. Some properties are changeable in Microsoft PowerPoint and other applications.
+Three types are available. Some properties are changeable in Microsoft PowerPoint or other applications.
 
 |type|summary|
 |:---|:---|
